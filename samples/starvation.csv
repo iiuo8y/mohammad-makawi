@@ -1,0 +1,7 @@
+pid,arrival,burst,priority
+P1,0,4,1
+P2,1,4,1
+P3,2,3,5
+P4,4,4,1
+P5,8,4,1
+P6,12,4,1
