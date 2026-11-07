@@ -1,11 +1,9 @@
 # CPU SchedLab — Kernel Crew
 
-The project has only **two files**:
-
-| File | What it is |
+| | |
 |---|---|
 | **`CPU_SchedLab.py`** | The whole program in one file (5 parts, one for each team member) |
-| **`شرح_الأعضاء.pdf`** | Explanation guide: for each member, a picture of their part of the code and a paragraph to say to the doctor |
+| **`شرح_الأعضاء/`** | One PDF per member: Phase 2 first, then Phase 3 — their code pictures and what to say (Jordanian dialect) |
 
 ## How to run (Windows)
 ```
